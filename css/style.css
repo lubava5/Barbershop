@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 128px;
   display: flex;
   flex-direction: column;
-  background: url(/img/bg/crystal.jpg) top 0 right 0/40% auto no-repeat;
+  background: url(../img/bg/crystal.jpg) top 0 right 0/40% auto no-repeat;
 }
 @media (max-width: 1452px) {
   .hero__content {
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 992.98px) {
   .hero__content {
-    background: url(/img/bg/crystal.jpg) top 0 right 0/30% auto no-repeat;
+    background: url(../img/bg/crystal.jpg) top 0 right 0/30% auto no-repeat;
   }
 }
 @media (max-width: 767.98px) {
@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .hero__title::after {
   content: url();
-  background-image: url(/img/decor/blot_r.jpg);
+  background-image: url(../img/decor/blot_r.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .hero__subtitle::before {
   content: url();
-  background-image: url(/img/decor/blot_l.jpg);
+  background-image: url(../img/decor/blot_l.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -1821,7 +1821,7 @@ footer {
   border: none;
   outline: none;
   border-color: transparent;
-  background-image: url(/img/svg/Ellipse.svg);
+  background-image: url(../img/svg/Ellipse.svg);
   background-repeat: no-repeat;
   width: 40px;
   height: 34px;
